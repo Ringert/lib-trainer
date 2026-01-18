@@ -1,6 +1,8 @@
-torch>=1.7
-coqpit
-psutil
-fsspec
-tensorboard
-soundfile
+torch>=2.1.0
+coqpit>=0.0.16
+psutil>=5.9.0
+fsspec>=2024.1.0
+tensorboard>=2.15.0
+soundfile>=0.12.1
+numpy<2.0.0,>=1.26.4
+scipy>=1.12.0
